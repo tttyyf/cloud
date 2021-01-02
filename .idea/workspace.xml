@@ -6,242 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fd958ba-fff6-48c9-b67f-11566abf990e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/TeachingManagement.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeachingManagement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/bean/College.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/bean/FileBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/bean/Lesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/bean/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/bean/PageModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/bean/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/bean/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/bean/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/controller/CollegeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/controller/FileController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/controller/LessonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/controller/ManagerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/controller/SubjectController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/controller/TeacherController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/dao/CollegeDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/dao/FileDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/dao/LessonDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/dao/ManagerDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/dao/StudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/dao/SubjectDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/dao/TeacherDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/filter/AuthorityFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/listener/LoginUserCountListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/service/CollegeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/service/FileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/service/LessonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/service/ManagerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/service/SubjectService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/service/TeacherService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/service/impl/CollegeServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/service/impl/FileServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/service/impl/LessonServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/service/impl/ManagerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/service/impl/StudentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/service/impl/SubjectServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/service/impl/TeacherServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/education/utils/DBUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/bean/College.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/bean/FileBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/bean/Lesson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/bean/Manager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/bean/PageModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/bean/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/bean/Subject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/bean/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/bean/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/controller/CollegeController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/controller/FileController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/controller/LessonController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/controller/ManagerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/controller/StudentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/controller/SubjectController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/controller/TeacherController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/dao/CollegeDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/dao/FileDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/dao/LessonDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/dao/ManagerDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/dao/StudentDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/dao/SubjectDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/dao/TeacherDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/filter/AuthorityFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/listener/LoginUserCountListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/service/CollegeService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/service/FileService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/service/LessonService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/service/ManagerService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/service/StudentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/service/SubjectService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/service/TeacherService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/service/impl/CollegeServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/service/impl/FileServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/service/impl/LessonServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/service/impl/ManagerServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/service/impl/StudentServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/service/impl/SubjectServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/service/impl/TeacherServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/education/utils/DBUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/LoginRegister/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/LoginRegister/css/rootlogin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/LoginRegister/css/snow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/LoginRegister/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/LoginRegister/images/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/LoginRegister/images/login-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/LoginRegister/images/root.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/UpLoad/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/UpLoad/52b5014dd98e7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/UpLoad/blueback.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/UpLoad/img-64a61daf29d8efb7340af6b4f50fa541.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.9.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/druid-1.1.22.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jspsmart.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jxl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/ojdbc6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-compat-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/demo.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/main.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/img/apple-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/img/confirmpwd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/img/email.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/img/icon3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/img/icon4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/img/login-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/img/logo-dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/img/profile-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/img/user-medium.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/img/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/img/user1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/img/user2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/img/user3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/img/user4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/img/user5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/scripts/klorofil-common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/bootstrap/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/bootstrap/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/chartist/css/chartist-custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/chartist/css/chartist-custom.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/chartist/css/chartist.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/chartist/css/chartist.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/chartist/js/chartist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/chartist/js/chartist.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/chartist/map/chartist.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/chartist/map/chartist.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/chartist/scss/chartist.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/jquery-slimscroll/jquery.slimscroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/jquery-slimscroll/jquery.slimscroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/jquery.easy-pie-chart/angular.easypiechart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/jquery.easy-pie-chart/angular.easypiechart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/jquery.easy-pie-chart/easypiechart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/jquery.easy-pie-chart/easypiechart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/jquery.easy-pie-chart/jquery.easypiechart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/linearicons/fonts/Linearicons-Free.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/linearicons/fonts/Linearicons-Free.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/linearicons/fonts/Linearicons-Free.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/linearicons/fonts/Linearicons-Free.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/linearicons/fonts/Linearicons-Free.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/linearicons/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/toastr/toastr.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/toastr/toastr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/toastr/toastr.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/vendor/toastr/toastr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fileManage/manager/fileTables.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fileManage/manager/fileUp.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fileManage/teacher/fileTables.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/info/file" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/sliderkit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/sliderkit_002.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/CollegeTables.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/LessonTables.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/ManagerTables.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/StudentTables.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/SubjectTables.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/TeacherTables.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/addCollege.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/addLesson.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/addManager.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/addStudent.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/addSubject.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/addTeacher.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/updateCollege.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/updateLesson.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/updateManager.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/updateStudent.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/updateSubject.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manager/updateTeacher.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/register.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/root-login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/teacher/CollegeTables.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/teacher/LessonTables.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/teacher/PersonTables.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/teacher/StudentTables.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/teacher/SubjectTables.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/teacher/TeacherTables.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/teacher/addLesson.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/teacher/addStudent.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/teacher/updateLesson.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/teacher/updatePerson.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/teacher/updateStudent.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="3fd958ba-fff6-48c9-b67f-11566abf990e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -391,15 +156,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609588935480</updated>
-      <workItem from="1609588939982" duration="263000" />
+      <workItem from="1609588939982" duration="538000" />
     </task>
+    <task id="LOCAL-00001" summary="测试-教学管理系统">
+      <created>1609589475284</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609589475285</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="测试-教学管理系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试-教学管理系统" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609589048225">
@@ -410,10 +184,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="170" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1609588982119" />
-    <state x="313" y="10" key="CommitChangelistDialog2" timestamp="1609589183156">
+    <state x="313" y="10" key="CommitChangelistDialog2" timestamp="1609589469835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="313" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1609589183156" />
+    <state x="313" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1609589469835" />
     <state x="409" y="128" key="FileChooserDialogImpl" timestamp="1609588993019">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
